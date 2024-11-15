@@ -1,12 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  8 14:06:19 2024
-
-@author: Dami
-"""
-
 # streamlit_app.py
-
+#import necessary libraries
 import streamlit as st
 import pandas as pd
 import joblib
